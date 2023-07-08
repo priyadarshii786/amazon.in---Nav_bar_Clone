@@ -1,2 +1,2 @@
 # amazon.in (Nav_bar_Clone)
-https://priyadarshii786.github.io/amazon.in---Nav_bar_Clone_2/
+https://priyadarshii786.github.io/amazon.in---Nav_bar_Clone/
